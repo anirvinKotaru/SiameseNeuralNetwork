@@ -115,10 +115,6 @@ for gpu in gpus:
 5. Batch and prefetch for optimal performance
 6. Train with binary cross-entropy loss
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -128,10 +124,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - LFW (Labeled Faces in the Wild) dataset
 - Original Siamese Networks paper by Koch et al.
 - Tutorial inspiration from Nicholas Renotte
-
-## Contact
-
-For questions or feedback, please open an issue on GitHub.
 
 ---
 
